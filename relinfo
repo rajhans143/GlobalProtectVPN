@@ -1,0 +1,4 @@
+
+# Added by pim
+import datetime
+self.release_info = {'comment': None, 'publish_id': 44L, 'product': u'gplinuxrpm', 'name': u'PanGPLinux', 'repository': u'gpl_5_2_4', 'variant': None, 'meta': None, 'p4change': 1069472L, 'label': None, 'platform': u'any', 'state': 0L, 'version': u'5.2.4', 'flags': u'insecure,app_package', 'rel': 14L, 'branch': u'globalprotect/release/teak', 'date': datetime.datetime(2020, 11, 12, 11, 27, 52, tzinfo=<UTC>), 'base': None, 'type': u'c', 'id': 4265L}
